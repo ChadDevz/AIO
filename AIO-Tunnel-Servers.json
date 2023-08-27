@@ -1,17 +1,26 @@
 [
     {
-        "serverIp": "server1_ip",
-        "serverPort": 1234,
-        "serverUser": "user1",
-        "serverPass": "pass1",
-        "flagName": "usa"
+        "itemName": "Server 1",
+        "serverDetails": {
+            "serverIp": "server1_ip",
+            "serverPort": 1234,
+            "serverUser": "user1",
+            "serverPass": "pass1",
+            "proxyIp": "proxy1_ip",
+            "proxyPort": 5678,
+            "flagName": "flag_ph.png"
+        }
     },
     {
-        "serverIp": "server2_ip",
-        "serverPort": 5678,
-        "serverUser": "user2",
-        "serverPass": "pass2",
-        "flagName": "uk"
+        "itemName": "Server 2",
+        "serverDetails": {
+            "serverIp": "server2_ip",
+            "serverPort": 2345,
+            "serverUser": "user2",
+            "serverPass": "pass2",
+            "proxyIp": "proxy2_ip",
+            "proxyPort": 6789,
+            "flagName": "flag_us.png"
+        }
     },
-    // Add more server objects here...
 ]
