@@ -1,0 +1,17 @@
+[
+    {
+        "serverIp": "server1_ip",
+        "serverPort": 1234,
+        "serverUser": "user1",
+        "serverPass": "pass1",
+        "flagName": "usa"
+    },
+    {
+        "serverIp": "server2_ip",
+        "serverPort": 5678,
+        "serverUser": "user2",
+        "serverPass": "pass2",
+        "flagName": "uk"
+    },
+    // Add more server objects here...
+]
