@@ -1,9 +1,9 @@
 [
     {
         "Name": "AIO Server 001",
-        "Flag": "flag_ph.png",
-        "Details": "PH Server Fast",
-        "Data": "192.168.100.0:22@1:1",
+        "Flag": "flag_sg.png",
+        "Details": "SG Server Fast",
+        "Data": "64.227.157.93:22@cafe-Lubot11:Chad11#3bgw",
         "RemoteProxy": "192.168.100.0",
         "RemoteProxyPort": "8080",
         "Protocol": "SSH",
