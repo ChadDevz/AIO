@@ -1,34 +1,36 @@
-[
-    {
-        "Name": "AIO Server 001",
-        "Flag": "flag_sg.png",
-        "Details": "SG Server Fast",
-        "Data": "64.227.157.93:22@cafe-Lubot11:Chad11#3bgw",
-        "RemoteProxy": "192.168.100.0",
-        "RemoteProxyPort": "8080",
-        "Protocol": "SSH",
-        "UDP Server": "",
-        "UDP Port": "",
-        "UDP Obfs": "",
-        "UDP Auth": "",
-        "UDP Upload": "",
-        "UDP Download": "",
-        "UDP Receive Window": ""
-    },
-    {
-        "Name": "AIO Server 002",
-        "Flag": "flag_sg.png",
-        "Details": "UDP Server",
-        "Data": "",
-        "RemoteProxy": "",
-        "RemoteProxyPort": "",
-        "Protocol": "UDP",
-        "UDP Server": "192.168.100.1",
-        "UDP Port": "20000:500000",
-        "UDP Obfs": "test",
-        "UDP Auth": "test",
-        "UDP Upload": "100",
-        "UDP Download": "100",
-        "UDP Receive Window": "199608"
-    }
-]
+{
+    "Servers": [
+        {
+            "Name": "AIO Server 001",
+            "Flag": "flag_sg.png",
+            "Details": "SG Server Fast",
+            "Data": "64.227.157.93:22@cafe-Lubot11:Chad11#3bgw",
+            "RemoteProxy": "192.168.100.0",
+            "RemoteProxyPort": "8080",
+            "Protocol": "SSH",
+            "UDP Server": "",
+            "UDP Port": "",
+            "UDP Obfs": "",
+            "UDP Auth": "",
+            "UDP Upload": "",
+            "UDP Download": "",
+            "UDP Receive Window": ""
+        },
+        {
+            "Name": "AIO Server 002",
+            "Flag": "flag_sg.png",
+            "Details": "UDP Server",
+            "Data": "",
+            "RemoteProxy": "",
+            "RemoteProxyPort": "",
+            "Protocol": "UDP",
+            "UDP Server": "192.168.100.1",
+            "UDP Port": "20000:500000",
+            "UDP Obfs": "test",
+            "UDP Auth": "test",
+            "UDP Upload": "100",
+            "UDP Download": "100",
+            "UDP Receive Window": "199608"
+        }
+    ]
+}
