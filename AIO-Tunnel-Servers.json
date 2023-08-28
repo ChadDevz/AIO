@@ -5,7 +5,7 @@
         "Details": "PH Server Fast",
         "Data": "192.168.100.0:22@1:1",
         "RemoteProxy": "192.168.100.0",
-        "RemoteProxyPort": "80",
+        "RemoteProxyPort": "8080",
         "Protocol": "SSH",
         "UDP Server": "",
         "UDP Port": "",
