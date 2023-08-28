@@ -1,26 +1,43 @@
-[
-  {
-    "itemName": "Server 1",
-    "serverDetails": {
-      "serverIp": "192.168.1.1",
-      "serverPort": 22,
-      "serverUser": "user1",
-      "serverPass": "pass1",
-      "proxyIp": "proxy1",
-      "proxyPort": 8080
+{
+
+  "Servers": [
+
+    {
+
+      "Name": "AIO Server 01",
+
+      "Flag": "flag_sg.png",
+
+      "Details": "PH Server Fast",
+
+      "Data": "1:1@1:1"
+
     },
-    "flagName": "flag_ph"
-  },
-  {
-    "itemName": "Server 2",
-    "serverDetails": {
-      "serverIp": "192.168.1.2",
-      "serverPort": 22,
-      "serverUser": "user2",
-      "serverPass": "pass2",
-      "proxyIp": "proxy2",
-      "proxyPort": 8080
+
+    {
+
+      "Name": "AIO Server 02",
+
+      "Flag": "flag_sg.png",
+      
+      "Details": "SG Server Fast",
+
+      "Data": "127.0.0.1:22@test:test"
+
     },
-    "flagName": "flag_us"
-  },
-]
+
+    {
+
+      "Name": "AIO Server 03",
+
+      "Flag": "flag_sg.png",
+
+      "Details": "SG Server Fast",
+
+      "Data": "127.0.0.1:22@test:test"
+
+    }
+
+  ]
+
+}
