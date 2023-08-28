@@ -1,7 +1,7 @@
 [
     {
-        "Name": "AIO Server 01",
-        "Flag": "flag_sg.png",
+        "Name": "AIO Server 001",
+        "Flag": "flag_ph.png",
         "Details": "PH Server Fast",
         "Data": "192.168.100.0:22@1:1",
         "RemoteProxy": "192.168.100.0",
@@ -16,7 +16,7 @@
         "UDP Receive Window": ""
     },
     {
-        "Name": "AIO Server 02",
+        "Name": "AIO Server 002",
         "Flag": "flag_sg.png",
         "Details": "UDP Server",
         "Data": "",
