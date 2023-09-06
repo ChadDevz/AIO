@@ -1,0 +1,19 @@
+{
+    "Plugins": [
+        {
+            "name": "DNSTT Plugin",
+            "packageName": "cdevz.dnstt.plugin",
+            "libraryName": "libdns.so"
+        },
+        {
+            "name": "Hysteria Plugin",
+            "packageName": "cdevz.hysteria.plugin",
+            "libraryName": "liboldcore.so"
+        },
+        {
+            "name": "V2ray Plugin",
+            "packageName": "cdevz.v2ray.plugin",
+            "libraryName": "libgojni.so"
+        }
+    ]
+}
