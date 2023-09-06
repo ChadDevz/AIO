@@ -3,17 +3,20 @@
         {
             "name": "DNSTT Plugin",
             "packageName": "cdevz.dnstt.plugin",
-            "libraryName": "libdns.so"
+            "libraryName": "libdns.so",
+            "installUrl": "https://t.me/aiotunnelphplugin/17"
         },
         {
             "name": "Hysteria Plugin",
             "packageName": "cdevz.hysteria.plugin",
-            "libraryName": "liboldcore.so"
+            "libraryName": "liboldcore.so",
+            "installUrl": "https://t.me/aiotunnelphplugin/14"
         },
         {
             "name": "V2ray Plugin",
             "packageName": "cdevz.v2ray.plugin",
-            "libraryName": "libgojni.so"
+            "libraryName": "libgojni.so",
+            "installUrl": "https://example.com/v2ray-plugin-install"
         }
     ]
 }
